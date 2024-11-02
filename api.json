@@ -1,4 +1,4 @@
 {
-    "URL_GAME_FILES" : "https://yourname/cache.zip",
-    "URL_CLIENT": "https://yourname/"
+    "URL_GAME_FILES" : "https://github.com/joseluiss494/api_ilhabela/releases/download/release/cache.zip",
+    "URL_CLIENT": "https://github.com/joseluiss494/api_ilhabela/releases/download/release/weikton-debug.apk"
 }
