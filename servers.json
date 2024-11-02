@@ -2,8 +2,15 @@
     {
       "color": "FF0000",
       "dopname": "(X2)",
-      "maxonline": 1000,
-      "name": "RED",
-      "online": 998
+      "maxonline": 500,
+      "name": "Zona Norte",
+      "online": 1
+    },
+    {
+      "color": "FF00FF",
+      "dopname": "(X3)",
+      "maxonline": 100,
+      "name": "Zona Leste",
+      "online": 3
     }
   ]
