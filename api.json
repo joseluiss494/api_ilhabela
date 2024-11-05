@@ -1,6 +1,4 @@
 {
-    "URL_GAME_FILES" : "https://github.com/joseluiss494/api_ilhabela/releases/download/release/cache.zip",
-    "URL_CLIENT": "https://github.com/joseluiss494/api_ilhabela/releases/download/release/weikton-debug.apk",
-    "IP_SERVER": "135.148.83.231",
-    "PORTA_SERVER": 7777
+  "URL_GAME_FILES" : "https://github.com/joseluiss494/api_ilhabela/releases/download/release/cache.zip",
+  "URL_CLIENT": "https://github.com/joseluiss494/api_ilhabela/releases/download/release/weikton-debug.apk"
 }
