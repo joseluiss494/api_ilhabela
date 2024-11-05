@@ -1,16 +1,18 @@
 [
     {
+      "action": false,
       "color": "FF0000",
-      "dopname": "(X2)",
-      "maxonline": 500,
-      "name": "Zona Norte",
-      "online": 1
+      "name": "Ilha Bela",
+      "online": 2,
+      "maxonline": 1000,
+      "lock": false
     },
     {
-      "color": "FF00FF",
-      "dopname": "(X3)",
-      "maxonline": 100,
-      "name": "Zona Leste",
-      "online": 3
+      "action": true,
+      "color": "FFFF00",
+      "name": "Testes",
+      "online": 0,
+      "maxonline": 1000,
+      "lock": true
     }
   ]
